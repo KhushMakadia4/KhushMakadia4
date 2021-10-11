@@ -1,4 +1,5 @@
-### More about me!
+# More about me!
+<hr>
 
 <h4>Hola!👋 My name is Khush and I am a rising senior at James B Conant High School in Hoffman Estates, Illinois.</h4>
 
