@@ -10,7 +10,7 @@
   
 <h4> In addition to coding, I love teaching others what I've learned and making my peers better developers. I do this by:</h4>
   <ul>
-  <li>Teaching and <href link="https://compscikids.net">getting kids interested in Computer Science</href></li>
+  <li>Teaching and <a href="https://compscikids.net">getting kids interested in Computer Science</a></li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
