@@ -1,4 +1,6 @@
-### Hi there 👋
+### More about me!
+
+<h4>Hola!👋 My name is Khush and I am a rising senior at James B Conant High School in Hoffman Estates, Illinois.</h4>
 
 <!--
 **KhushMakadia4/KhushMakadia4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
