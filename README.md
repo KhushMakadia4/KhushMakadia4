@@ -10,9 +10,9 @@
   
 <h4> In addition to coding, I love teaching others what I've learned and making my peers better developers. I do this by:</h4>
   <ul>
-  <li>Teaching and <a href="https://compscikids.net">getting kids interested in Computer Science</a></li>
-  <li>Leading, teaching, and <a href="https://conant.hackclub.com">encouraging my peers to use new technology and software</a></li>
-  <li>Organizing and <a href="https://hackclub.com">planning mini hackathons with other Hack Club leaders</a></li>
+  <li>📖Teaching and <a href="https://compscikids.net">getting kids interested in Computer Science</a></li>
+  <li>🖥️Leading, teaching, and <a href="https://conant.hackclub.com">encouraging my peers to use new technology and software</a></li>
+  <li>🏆Organizing and <a href="https://hackclub.com">planning mini hackathons with other Hack Club leaders for my peers and students</a></li>
 </ul>
 
 <!--
