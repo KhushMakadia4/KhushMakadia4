@@ -2,7 +2,7 @@
 <hr>
 
 <h4>Hello!👋 My name is Khush and I am a freshman studying Computer Science at the University of Illinois at Urbana-Champaign. <strong>My passion is creating applications that benefit the world and solve problems for people.</h4>
-  <br >
+  
 <!--
 <h4> I mostly do android and web development, but I've developed many other applications using Java, C#, Javascript, and Python. These applications include games and apps that help society in any way possible. With these applications, I've learnt how to do UI/UX design, database implementation, Artifical Intelligence modeling and use, efficient debugging, and much more!</h4>
   <br>
@@ -13,8 +13,11 @@
   <li>🏆Organizing and <a href="https://hackclub.com">planning mini hackathons with other Hack Club leaders for my peers and students</a></li>
 </ul>
 -->
-<h4> I am currently a software developer at <a href="https://uiuc.hack4impact.org/">Hack4Impact</a> where we work with nonprofits to create high-impact software applications that do great social good.<h4>
+<h4>🖥️ I am currently a software developer at <a href="https://uiuc.hack4impact.org/">Hack4Impact</a> where we work with nonprofits to create high-impact software applications that do great social good.<h4>
 
+<h4>🌱 I am currenly working with C++, Python, React, Node, Typescript, and Github for my classes and ongoing projects. I also have proficiency in Java, Firebase,  Postman, and NextJS.<h4>
+
+<h4>📫 Email: <a href="mailto://kmaka5@illinois.edu> kmaka5@illinois.edu</a><h4>
 <!--
 **KhushMakadia4/KhushMakadia4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
