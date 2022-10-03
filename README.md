@@ -18,6 +18,7 @@
 <h4>🌱 I am currenly working with C++, Python, React, Node, Typescript, and Github for my classes and ongoing projects. I also have proficiency in Java, Firebase,  Postman, and NextJS.<h4>
 
 <h4>📫 Email: <a href="mailto:kmaka5@illinois.edu"> kmaka5@illinois.edu</a><h4>
+<h4>⚡ LinkedIn: <a href="https://www.linkedin.com/in/khush-makadia/"> Khush Makadia</a><h4>
 <!--
 **KhushMakadia4/KhushMakadia4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
