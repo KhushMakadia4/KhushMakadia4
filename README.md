@@ -1,7 +1,7 @@
-# More about me!
+# Hello there!
 <hr>
 
-<h4>Hello!👋 My name is Khush and I am a freshman studying Computer Science at the University of Illinois at Urbana-Champaign. <strong>My passion is creating applications that benefit the world and solve problems for people.</h4>
+<h4>Welcome!👋 My name is Khush and I am a freshman studying Computer Science at the University of Illinois at Urbana-Champaign. <strong>My passion is creating applications that benefit the world and solve problems for people.</h4>
   
 <!--
 <h4> I mostly do android and web development, but I've developed many other applications using Java, C#, Javascript, and Python. These applications include games and apps that help society in any way possible. With these applications, I've learnt how to do UI/UX design, database implementation, Artifical Intelligence modeling and use, efficient debugging, and much more!</h4>
