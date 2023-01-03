@@ -13,10 +13,14 @@
   <li>🏆Organizing and <a href="https://hackclub.com">planning mini hackathons with other Hack Club leaders for my peers and students</a></li>
 </ul>
 -->
-<h4>🖥️ I am currently a software developer at <a href="https://uiuc.hack4impact.org/">Hack4Impact</a> where we work with nonprofits to create high-impact software applications that do great social good.<h4>
+<h4>💼 I am currently a software development intern at <a href="https://ama.or/">American Marketing Association</a> where I am creating an internal server-less dashboard using React and AWS technologies.<h4>
+  
+<h4>🖥️ I am also a software developer at <a href="https://uiuc.hack4impact.org/">Hack4Impact</a> where we work with nonprofits to create high-impact software applications that do great social good.<h4>
 
 <h4>🌱 I am currenly working with C++, Python, React, Node, Typescript, and Github for my classes and ongoing projects. I also have proficiency in Java, Firebase,  Postman, and NextJS.<h4>
 
+<h4>📖 Relevant Courses: Data Structures, Computer Architecture, Software Design Studio, Intro to CS 1 and 2, Discrete Structures, Linear Algebra with Computational Applications.<h4>
+  
 <h4>📫 Email: <a href="mailto:kmakadia4@gmail.com"> kmakadia4@gmail.com </a><h4>
 <h4>⚡ LinkedIn: <a href="https://www.linkedin.com/in/khush-makadia/"> Khush Makadia</a><h4>
 <!--
