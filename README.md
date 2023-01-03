@@ -13,7 +13,7 @@
   <li>🏆Organizing and <a href="https://hackclub.com">planning mini hackathons with other Hack Club leaders for my peers and students</a></li>
 </ul>
 -->
-<h4>💼 I am currently a software development intern at <a href="https://ama.or/">American Marketing Association</a> where I am creating an internal server-less dashboard using React and AWS technologies.<h4>
+<h4>💼 I am currently a software development intern at <a href="https://ama.org/">American Marketing Association</a> where I am creating an internal server-less dashboard using React and AWS technologies.<h4>
   
 <h4>🖥️ I am also a software developer at <a href="https://uiuc.hack4impact.org/">Hack4Impact</a> where we work with nonprofits to create high-impact software applications that do great social good.<h4>
 
