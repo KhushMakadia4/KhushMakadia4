@@ -1,39 +1,24 @@
-# Hello there!
-<hr>
+# 💫 About Me:
+Welcome!👋 My name is Khush and I am a junior studying Computer Science at the University of Illinois at Urbana-Champaign. My passion is creating applications that benefit the world and solve problems for people.<br><br>🌐 Currently, I am exploring Systems development within the context of Software Development<br><br>🖥️ I am a software developer at Hack4Impact where we work with nonprofits to create high-impact software applications that do great social good.<br>🌱 I am currenly working with C++, Python, React, Node, Typescript, and Github for my classes and ongoing projects. I also have proficiency in Java, Firebase, Postman, and NextJS.<br>📖 Relevant Courses: Data Structures, Computer Architecture, Software Design Studio, Intro to CS 1 and 2, Discrete Structures, Linear Algebra with Computational Applications.<br><br>📫 Email: kmakadia4@gmail.com<br>⚡ LinkedIn: Khush Makadia
 
-<h4>Welcome!👋 My name is Khush and I am a freshman studying Computer Science at the University of Illinois at Urbana-Champaign. <strong>My passion is creating applications that benefit the world and solve problems for people.</h4>
-  
-<!--
-<h4> I mostly do android and web development, but I've developed many other applications using Java, C#, Javascript, and Python. These applications include games and apps that help society in any way possible. With these applications, I've learnt how to do UI/UX design, database implementation, Artifical Intelligence modeling and use, efficient debugging, and much more!</h4>
-  <br>
-<h4> In addition to coding, I love teaching others what I've learned and making my peers better developers. I do this by:</h4>
-  <ul>
-  <li>📖Teaching and <a href="https://compscikids.net">getting kids interested in Computer Science</a></li>
-  <li>🖥️Leading, teaching, and <a href="https://conant.hackclub.com">encouraging my peers to use new technology and software</a></li>
-  <li>🏆Organizing and <a href="https://hackclub.com">planning mini hackathons with other Hack Club leaders for my peers and students</a></li>
-</ul>
--->
-<h4>💼 I am currently a software development intern at <a href="https://ama.org/">American Marketing Association</a> where I am creating an internal server-less dashboard using React and AWS technologies.<h4>
-  
-<h4>🖥️ I am also a software developer at <a href="https://uiuc.hack4impact.org/">Hack4Impact</a> where we work with nonprofits to create high-impact software applications that do great social good.<h4>
 
-<h4>🌱 I am currenly working with C++, Python, React, Node, Typescript, and Github for my classes and ongoing projects. I also have proficiency in Java, Firebase,  Postman, and NextJS.<h4>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khush-makadia/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@kmakadia4) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kmak404) 
 
-<h4>📖 Relevant Courses: Data Structures, Computer Architecture, Software Design Studio, Intro to CS 1 and 2, Discrete Structures, Linear Algebra with Computational Applications.<h4>
-  
-<h4>📫 Email: <a href="mailto:kmakadia4@gmail.com"> kmakadia4@gmail.com </a><h4>
-<h4>⚡ LinkedIn: <a href="https://www.linkedin.com/in/khush-makadia/"> Khush Makadia</a><h4>
-<!--
-**KhushMakadia4/KhushMakadia4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khushmakadia4&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khushmakadia4&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushmakadia4&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=kmak404)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=khushmakadia4&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=khushmakadia4&icon=9&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
